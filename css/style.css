@@ -1,48 +1,73 @@
 /* ini css */
-.logo-icon {
-    height:48px;
-    width:48px;
-    border: 1px solid;
-    background-image: url(https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/48x48/plain/piece.png); 
-    background-size: cover;
-    border-radius: 50px;
-    }
+    .logo-icon {
+        height:48px;
+        width:48px;
+        border: 1px solid;
+        background-image: url(https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/48x48/plain/piece.png); 
+        background-size: cover;
+        border-radius: 50px;
+        }
 
     .nav-item {
-    border:1px solid;
-    color: black;
-    font-size:16px;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 8px;
-    }
+        border:1px solid;
+        color: black;
+        font-size:16px;
+        font-weight: bold;
+        padding: 10px;
+        border-radius: 8px;
+        }
 
     .banner-img {
         border:1px solid;
-        height:300px;
+        height:578px;
+        width:1366px;
         background-image: url(https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg); 
         background-size: cover;
-    }
+        }
 
     .profile-item {
         height: 100px;
         text-align: -webkit-center;               
-    }
+        }
 
     .profile-img {
         border:1px solid;
-                        height:50px;
-                        background-image: url(https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg); 
-                        background-size: cover;
-                        background-position: center;
-                        border-radius: 50%;
-                        background-size: cover;
-                        height: 50px;
-                        width:50px;
-    }
+        height:50px;
+        background-image: url(https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg); 
+        background-size: cover;
+        background-position: center;
+        border-radius: 50%;
+        background-size: cover;
+        height: 50px;
+        width:50px;
+        }
 
     .profile-container {
         display: flex;
         justify-content: space-around;
-    }
+        }
+
+    .content {
+        max-width:fit-content;
+        margin: auto;
+        background: white;
+        padding-block:20px;
+        }
+
+    .up-icon {
+        height:48px;
+        width:48px;
+        border: 1px solid;
+        background-image: url(https://cdn-icons-png.flaticon.com/512/55/55008.png); 
+        background-size: cover;
+        border-radius: 50px;
+        }
+
+    .rcorners {
+            border-radius: 25px;
+            border: 2px solid #73AD21;
+            padding: 20px; 
+            width: 200px;
+            height: 150px;  
+          }
 
