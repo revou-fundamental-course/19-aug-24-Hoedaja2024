@@ -1,11 +1,11 @@
 /* ini css */
     .logo-icon {
-        height:48px;
-        width:48px;
+        height: 40px;
+        width:40px;
         border: 1px solid;
-        background-image: url(https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/48x48/plain/piece.png); 
-        background-size: cover;
-        border-radius: 50px;
+        background-image: url(https://storage.googleapis.com/danacita-website-v3-prd/website_v3/images/Revou-alasan.original.png);
+        border-radius: 40px;
+        
         }
 
     .nav-item {
@@ -71,3 +71,11 @@
             height: 150px;  
           }
 
+    .slider img {
+        height: 200px;
+        width: 100%;
+    }
+    .container {
+          max-width: 50%;
+          margin: auto;
+    }
